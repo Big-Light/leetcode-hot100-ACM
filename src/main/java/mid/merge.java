@@ -27,6 +27,6 @@ public class merge {
             nums[i][0] = sc.nextInt();
             nums[i][1] = sc.nextInt();
         }
-        System.out.println(Arrays.deepToString(merge(nums)));
+        System.out.println(Arrays.deepToString(merge(nums)));   //多维数组输出字符串的函数——deepToString
     }
 }
